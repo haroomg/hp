@@ -1,4 +1,3 @@
-model
 .env
 config/satConfig.ini
 .csv
